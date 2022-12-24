@@ -1,0 +1,16 @@
+assets gather
+       logo
+       img
+       icon
+       text
+       font
+fonts
+    Inconsolata Regular
+    PlayfairDisplay Regular
+    Ubuntu Light
+
+    
+
+
+
+
